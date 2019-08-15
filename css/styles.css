@@ -26,3 +26,7 @@ p{
 .search-img {
   height: 20px;
 }
+
+.navbar-dark .navbar-nav .nav-link{
+  color: white;
+}
