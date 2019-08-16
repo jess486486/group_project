@@ -5,7 +5,7 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-  background-color: lightblue;
+  background-image:"duck.jpg";
 }
 h1{
   color: white;
@@ -25,33 +25,4 @@ p{
 
 .search-img {
   height: 20px;
-}
-
-.navbar-dark .navbar-nav .nav-link{
-  color: white;
-}
-
-#imageDiv {
-  display: flex;
-  justify-content: center;
-}
-
-.btn.btn-outline-dark1 {
-  margin-left: 54px;
-}
-
-.btn.btn-outline-dark2 {
-  margin-left: 54px;
-}
-
-.btn.btn-outline-dark3 {
-  margin-left: 54px;
-}
-
-.btn.btn-outline-dark4 {
-  margin-left: 54px;
-}
-
-.btn.btn-outline-dark5 {
-  margin-left: 54px;
 }
