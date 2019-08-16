@@ -55,3 +55,12 @@ p{
 .btn.btn-outline-dark5 {
   margin-left: 54px;
 }
+
+
+.carousel-inner img {
+  margin: auto;
+}
+h2{
+  color:white;
+  background-color:lightblue;
+}
